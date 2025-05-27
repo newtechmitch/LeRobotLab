@@ -62,3 +62,5 @@ outputs/models/
 
 # Large video files (optional - uncomment if you want to exclude videos from git)
 # notebooks/videos/
+.DS_Store
+notebooks/videos
