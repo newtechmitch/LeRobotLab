@@ -1,0 +1,45 @@
+{
+  "episode_id": 2,
+  "episode_name": "newtechmitch+orange-ball-3-episode_002",
+  "source_dataset": "newtechmitch+orange-ball-3",
+  "total_frames": 884,
+  "duration_seconds": 29.466666666666665,
+  "fps": 30,
+  "files": {
+    "trajectory": "trajectory.h5",
+    "video": {
+      "front_camera": "recordings/MP4/front_camera.mp4"
+    }
+  },
+  "data_keys": {
+    "action": {
+      "shape": [
+        6
+      ],
+      "dtype": "float32",
+      "names": [
+        "shoulder_pan.pos",
+        "shoulder_lift.pos",
+        "elbow_flex.pos",
+        "wrist_flex.pos",
+        "wrist_roll.pos",
+        "gripper.pos"
+      ]
+    },
+    "observation.state": {
+      "shape": [
+        6
+      ],
+      "dtype": "float32",
+      "names": [
+        "shoulder_pan.pos",
+        "shoulder_lift.pos",
+        "elbow_flex.pos",
+        "wrist_flex.pos",
+        "wrist_roll.pos",
+        "gripper.pos"
+      ]
+    }
+  },
+  "task": "Grab orange ball"
+}

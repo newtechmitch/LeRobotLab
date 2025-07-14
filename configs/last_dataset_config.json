@@ -1,0 +1,21 @@
+{
+  "dataset": {
+    "repo_id": "newtechmitch/o3",
+    "single_task": "Grab orange ball",
+    "num_episodes": 3,
+    "episode_time_s": 30,
+    "reset_time_s": 0,
+    "push_to_hub": false,
+    "fps": 30,
+    "video": true,
+    "private": false,
+    "num_image_writer_processes": 2,
+    "num_image_writer_threads_per_camera": 4
+  },
+  "control": {
+    "resume": false
+  },
+  "resume": true,
+  "display_data": false,
+  "play_sounds": true
+}

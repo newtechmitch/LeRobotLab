@@ -1,0 +1,11 @@
+[tool.black]
+line-length = 140
+
+[tool.flake8]
+max-line-length = 140
+
+[tool.pylint]
+max-line-length = 140
+
+[tool.ruff]
+line-length = 140

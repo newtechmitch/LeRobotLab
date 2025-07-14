@@ -64,3 +64,6 @@ outputs/models/
 # notebooks/videos/
 .DS_Store
 notebooks/videos
+
+# Local configuration files
+configs/local_SO101_config.json

@@ -1,0 +1,28 @@
+{
+  "robot": {
+    "type": "so101_follower",
+    "port": "/dev/tty.usbmodem5A460828321",
+    "id": "michel_follower_arm",
+    "cameras": {
+      "front": {
+        "type": "opencv",
+        "index_or_path": 0,
+        "width": 1280,
+        "height": 720,
+        "fps": 30
+      },
+      "top": {
+        "type": "opencv",
+        "index_or_path": 2,
+        "width": 1280,
+        "height": 720,
+        "fps": 30
+      }
+    }
+  },
+  "teleop": {
+    "type": "so101_leader",
+    "port": "/dev/tty.usbmodem5A460823761",
+    "id": "michel_leader_arm"
+  }
+}
