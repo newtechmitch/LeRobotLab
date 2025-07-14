@@ -63,7 +63,8 @@ outputs/models/
 # Large video files (optional - uncomment if you want to exclude videos from git)
 # notebooks/videos/
 .DS_Store
-notebooks/videos
+notebooks/videos/
+downloaded_datasets/
 
 # Local configuration files
 configs/local_SO101_config.json
