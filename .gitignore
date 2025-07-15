@@ -65,6 +65,7 @@ outputs/models/
 .DS_Store
 notebooks/videos/
 downloaded_datasets/
+output_datasets/
 
 # Local configuration files
 configs/local_SO101_config.json

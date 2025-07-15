@@ -1,6 +1,6 @@
-from lerobot.common.cameras.opencv.configuration_opencv import OpenCVCameraConfig
-from lerobot.common.cameras.opencv.camera_opencv import OpenCVCamera
-from lerobot.common.cameras.configs import ColorMode, Cv2Rotation
+from lerobot.cameras.opencv.configuration_opencv import OpenCVCameraConfig
+from lerobot.cameras.opencv.camera_opencv import OpenCVCamera
+from lerobot.cameras.configs import ColorMode, Cv2Rotation
 
 # Construct an `OpenCVCameraConfig` with your desired FPS, resolution, color mode, and rotation.
 config = OpenCVCameraConfig(

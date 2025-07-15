@@ -1,0 +1,141 @@
+dataset_name,dataset_created_at,dataset_created_at_raw,robot_type,estimated_episodes,total_files,video_files,downloads,likes,size_bytes,tags,description,last_modified,license,license_name,license_url,avg_video_duration_sec,video_resolution,video_fps,total_video_duration_min,video_analysis_samples,camera_names,unique_cameras,camera_names_str,status
+Jeevesh2009/so101_new_test,2025-06-05 10:49:26,2025-06-05 10:49:26+00:00,SO101,62,192,124,22,0,0,"['task_categories:robotics', 'license:apache-2.0', 'size_categories:10K<n<100K', 'format:parquet', 'modality:tabular', 'modality:timeseries', 'modality:video', 'library:datasets', 'library:dask', 'library:mlcroissant', 'library:polars', 'region:us', 'LeRobot', 'so101', 'tutorial']","This dataset was created using LeRobot.
+
+	
+		
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    ""codebase_version"": ""v2.1"",
+    ""robot_type"": ""so101"",
+    ""total_episodes"": 2,
+    ""total_frames"": 294,
+    ...",2025-06-05 10:55:03+00:00,apache-2.0,Apache License 2.0,https://opensource.org/licenses/Apache-2.0,45.0,480x640,30.0,93.0,3,"['realsense1', 'realsense2']",2,"realsense1, realsense2",success
+Jiafei1224/so100_test3,2025-04-11 00:33:30,2025-04-11 00:33:30+00:00,SO100,2,12,4,19,0,0,"['task_categories:robotics', 'license:apache-2.0', 'size_categories:1K<n<10K', 'format:parquet', 'modality:tabular', 'modality:timeseries', 'modality:video', 'library:datasets', 'library:dask', 'library:mlcroissant', 'library:polars', 'region:us', 'LeRobot', 'so100', 'tutorial']","This dataset was created using LeRobot.
+
+	
+		
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    ""codebase_version"": ""v2.1"",
+    ""robot_type"": ""so100"",
+    ""total_episodes"": 2,
+    ""total_frames"": 1169,
+   ...",2025-04-11 00:33:34+00:00,apache-2.0,Apache License 2.0,https://opensource.org/licenses/Apache-2.0,45.0,480x640,30.0,3.0,3,"['laptop', 'phone']",2,"laptop, phone",success
+cruiseliu/so101_test_2,2025-06-02 02:53:45,2025-06-02 02:53:45+00:00,SO101,10,36,20,12,0,0,"['task_categories:robotics', 'license:apache-2.0', 'size_categories:1K<n<10K', 'format:parquet', 'modality:tabular', 'modality:timeseries', 'modality:video', 'library:datasets', 'library:dask', 'library:mlcroissant', 'library:polars', 'region:us', 'LeRobot', 'so101_2', 'tutorial2']","This dataset was created using LeRobot.
+
+	
+		
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    ""codebase_version"": ""v2.1"",
+    ""robot_type"": ""so101"",
+    ""total_episodes"": 10,
+    ""total_frames"": 8903,
+  ...",2025-06-02 02:54:01+00:00,apache-2.0,Apache License 2.0,https://opensource.org/licenses/Apache-2.0,45.0,480x640,30.0,15.0,3,"['laptop', 'phone']",2,"laptop, phone",success
+gokulp01/so100_test,2025-05-04 22:39:13,2025-05-04 22:39:13+00:00,SO100,1,9,2,16,0,0,"['task_categories:robotics', 'license:apache-2.0', 'size_categories:1K<n<10K', 'format:parquet', 'modality:tabular', 'modality:timeseries', 'modality:video', 'library:datasets', 'library:pandas', 'library:mlcroissant', 'library:polars', 'region:us', 'LeRobot', 'so100', 'tutorial']","This dataset was created using LeRobot.
+
+	
+		
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    ""codebase_version"": ""v2.1"",
+    ""robot_type"": ""so100"",
+    ""total_episodes"": 1,
+    ""total_frames"": 897,
+    ...",2025-05-04 22:57:31+00:00,apache-2.0,Apache License 2.0,https://opensource.org/licenses/Apache-2.0,45.0,480x640,30.0,1.5,2,"['laptop', 'phone']",2,"laptop, phone",success
+jchun/so100_cleaning_20250524_160322,2025-05-24 22:51:00,2025-05-24 22:51:00+00:00,SO100,0,3,0,9,0,0,"['task_categories:robotics', 'license:apache-2.0', 'region:us', 'LeRobot', 'cleaning']","This dataset was created using LeRobot.
+
+	
+		
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    ""codebase_version"": ""v2.1"",
+    ""robot_type"": ""so100"",
+    ""total_episodes"": 0,
+    ""total_frames"": 0,
+    ""t...",2025-05-24 22:51:02+00:00,apache-2.0,Apache License 2.0,https://opensource.org/licenses/Apache-2.0,0.0,No videos,0.0,0.0,0,[],0,No videos,success
+liuhuanjim013/so100_test,2025-03-06 10:03:28,2025-03-06 10:03:28+00:00,SO100,13,46,26,14,0,0,"['task_categories:robotics', 'license:apache-2.0', 'size_categories:10K<n<100K', 'format:parquet', 'modality:tabular', 'modality:timeseries', 'modality:video', 'library:datasets', 'library:pandas', 'library:mlcroissant', 'library:polars', 'region:us', 'LeRobot', 'so100', 'tutorial']","This dataset was created using LeRobot.
+
+	
+		
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    ""codebase_version"": ""v2.0"",
+    ""robot_type"": ""so100"",
+    ""total_episodes"": 13,
+    ""total_frames"": 11322,
+ ...",2025-03-07 03:00:39+00:00,apache-2.0,Apache License 2.0,https://opensource.org/licenses/Apache-2.0,45.0,480x640,30.0,19.5,3,"['laptop', 'phone']",2,"laptop, phone",success
+love3165303/so100_pick6,2025-05-21 13:51:04,2025-05-21 13:51:04+00:00,SO100,50,156,100,113,0,0,"['task_categories:robotics', 'license:apache-2.0', 'size_categories:10K<n<100K', 'format:parquet', 'modality:tabular', 'modality:timeseries', 'modality:video', 'library:datasets', 'library:dask', 'library:mlcroissant', 'library:polars', 'region:us', 'LeRobot', 'so100', 'tutorial']","This dataset was created using LeRobot.
+
+	
+		
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    ""codebase_version"": ""v2.1"",
+    ""robot_type"": ""so100"",
+    ""total_episodes"": 10,
+    ""total_frames"": 3079,
+  ...",2025-05-21 14:13:12+00:00,apache-2.0,Apache License 2.0,https://opensource.org/licenses/Apache-2.0,45.0,480x640,30.0,75.0,3,"['laptop', 'phone']",2,"laptop, phone",success
+sshh11/so100_test,2025-03-05 17:32:05,2025-03-05 17:32:05+00:00,SO100,2,10,2,17,0,0,"['task_categories:robotics', 'license:apache-2.0', 'size_categories:1K<n<10K', 'format:parquet', 'modality:tabular', 'modality:timeseries', 'modality:video', 'library:datasets', 'library:dask', 'library:mlcroissant', 'library:polars', 'region:us', 'LeRobot', 'so100', 'tutorial']","This dataset was created using LeRobot.
+
+	
+		
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    ""codebase_version"": ""v2.1"",
+    ""robot_type"": ""so100"",
+    ""total_episodes"": 2,
+    ""total_frames"": 1793,
+   ...",2025-03-05 17:32:12+00:00,apache-2.0,Apache License 2.0,https://opensource.org/licenses/Apache-2.0,45.0,480x640,30.0,1.5,2,['laptop'],1,laptop,success
+sudosimi/so101_test,2025-06-06 20:20:58,2025-06-06 20:20:58+00:00,SO101,2,14,6,36,0,0,"['task_categories:robotics', 'license:apache-2.0', 'size_categories:1K<n<10K', 'format:parquet', 'modality:tabular', 'modality:timeseries', 'modality:video', 'library:datasets', 'library:dask', 'library:mlcroissant', 'library:polars', 'region:us', 'LeRobot', 'so101', 'tutorial']","This dataset was created using LeRobot.
+
+	
+		
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    ""codebase_version"": ""v2.1"",
+    ""robot_type"": ""so101"",
+    ""total_episodes"": 2,
+    ""total_frames"": 1590,
+   ...",2025-06-06 20:21:10+00:00,apache-2.0,Apache License 2.0,https://opensource.org/licenses/Apache-2.0,45.0,480x640,30.0,4.5,3,"['obs_image_1', 'obs_image_2', 'obs_image_3']",3,"obs_image_1, obs_image_2, obs_image_3",success
+tfoldi/so100_glass_1,2025-05-17 15:04:33,2025-05-17 15:04:33+00:00,SO100,30,66,30,24,0,0,"['task_categories:robotics', 'license:apache-2.0', 'size_categories:1K<n<10K', 'format:parquet', 'modality:tabular', 'modality:timeseries', 'modality:video', 'library:datasets', 'library:dask', 'library:mlcroissant', 'library:polars', 'region:us', 'LeRobot', 'so100', 'tutorial']","This dataset was created using LeRobot.
+
+	
+		
+		Dataset Structure
+	
+
+meta/info.json:
+{
+    ""codebase_version"": ""v2.0"",
+    ""robot_type"": ""so100"",
+    ""total_episodes"": 30,
+    ""total_frames"": 8849,
+  ...",2025-05-17 15:05:03+00:00,apache-2.0,Apache License 2.0,https://opensource.org/licenses/Apache-2.0,45.0,480x640,30.0,22.5,3,['laptop'],1,laptop,success
